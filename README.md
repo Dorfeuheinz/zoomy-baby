@@ -3,7 +3,7 @@
 To use the project first clone it into a directory in your machine -
 `git clone <link>`
 
-(replace `<link>` with the actual git/ssh link of this repo)
+(replace `<link>` with the actual git/ssh link of this repo) OR download the zip file and extract it
 
 To build the repo on your local machine, cd into the downloaded folder and type-
 `npm install`
