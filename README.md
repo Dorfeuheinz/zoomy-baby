@@ -1,6 +1,6 @@
 # zoomy-baby
 To use the project first you will hav to create a disocrd bot, (I will not be covering how to do that, go watch some tutorials)
-Next you need to add your discord bot to the discord guild/server where you want to recieve the links from.
+Next you need to add your discord bot to the discord guild/server you want to recieve the links from.
 Once thats done and your bot is a discord guild member, follow the below listed steps and you are good to go-
 
 
