@@ -27,9 +27,9 @@ client.on("message", message => {
   if(cont=== "/slap")message.reply("https://tenor.com/view/penguin-smack-head-fall-over-gif-15860650")
   if(cont=== "/dog")message.reply("https://tenor.com/view/slap-slapping-gif-25324495")
   if(cont === "/make-me-rich")message.reply("https://cdn.discordapp.com/attachments/717367225673056297/864398321401331722/PicsArt_07-13-12.01.00.png")
-  //if(message.content === "/pimp")message.reply("https://cdn.discordapp.com/attachments/859075777924694027/937580603187023882/20210616_105554.jpg")
-  //if(message.content === "/pimp-rns")message.reply("https://cdn.discordapp.com/attachments/859075777924694027/937580602977320980/20210301_224357.jpg")
-  //if(message.content === "/gay")message.reply("https://cdn.discordapp.com/attachments/859075777924694027/937580602666909726/PicsArt_07-14-09.46.29.jpg")
+  if(message.content === "/pimp")message.reply("https://cdn.discordapp.com/attachments/859075777924694027/937580603187023882/20210616_105554.jpg")
+  if(message.content === "/pimp-rns")message.reply("https://cdn.discordapp.com/attachments/859075777924694027/937580602977320980/20210301_224357.jpg")
+  if(message.content === "/gay")message.reply("https://cdn.discordapp.com/attachments/859075777924694027/937580602666909726/PicsArt_07-14-09.46.29.jpg")
 
 })
 
